@@ -257,3 +257,4 @@ xml
 xrdb
 zsh
 zsh_command_not_found
+h
